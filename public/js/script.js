@@ -1,5 +1,5 @@
-let myButton = document.getElementById('myButton');
+// let myButton = document.getElementById('myButton');
 
-myButton.addEventListener('click', (e) => {
-    alert('we clicked a button')
-})
+// myButton.addEventListener('click', (e) => {
+//     alert('we clicked a button')
+// })
